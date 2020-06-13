@@ -15,11 +15,11 @@ body{
     
 }
 .standard-bg {
-    position:absolute;
-	/*position:relative*/
-	/*left:0;*/
+    
+     position:relative
+     left:0;
     top:0;
-    left:102px;
+  
     background-image:url(../images/standard\ room.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -171,11 +171,9 @@ margin-bottom:21px;
 }
 
 .luxurius-bg{
-	/*position:relative*/
-	/*left:0;*/
-    position: absolute;
+   position:relative
+   left:0;
     top:0;
-    left:102px;
     background-image:url(../images/luxury\ room.jpg);
     background-position: center;
     background-repeat: no-repeat;
